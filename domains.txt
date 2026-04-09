@@ -1,4 +1,0 @@
-google.com
-cloudflare.com
-yahoo.com
-nixi.in
